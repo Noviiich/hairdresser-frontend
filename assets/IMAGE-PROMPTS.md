@@ -1,0 +1,19 @@
+# Изображения «Преображение»
+
+Режим: встроенный инструмент `image_gen` / imagegen. Все изображения созданы для дизайна сайта; это не фотографии реального салона, мастеров или выполненных работ. Публикационные копии находятся в `assets/images/`.
+
+## hero.webp / hero-640.webp
+
+Use case: photorealistic-natural. Asset type: portrait hero photograph for a refined Russian hair salon website called Преображение; no text rendered in the image. Create a premium fashion editorial photograph of an adult woman, around 28, with voluminous shiny dark chestnut shoulder-length hair in a beautiful contemporary long bob with curtain bangs, softly flowing in a breeze. She wears a simple ivory sleeveless high-neck top, subtly smiling with self-assured natural expression, looking slightly off-camera left. Three quarter upper body portrait, hair and head fully visible with breathing space at top. Warm soft beige studio background, hard but flattering late afternoon light from the upper left creating a gentle shadow on wall. Warm film photography, authentic skin texture, nuanced warm brown hair highlights, quiet luxury, realistic high-end beauty editorial with natural elegance. Vertical 3:4 composition. Muted cream and chestnut palette. Avoid props, text, watermarks, logos, borders, collages and over-smoothed skin.
+
+## color.webp / color-640.webp
+
+Use case: photorealistic-natural. Asset type: service card photograph for an elegant hair salon. Premium editorial photograph, rear three-quarter view of an adult woman's very healthy, voluminous medium length warm blonde hair with intricate dimensional honey-beige balayage and large soft waves. Woman wears a simple black top. Frame from crown to mid back, beautiful professionally styled hair is the hero, face almost entirely turned away. Soft warm ivory plaster background in a refined hair studio with window light. 4:5 vertical composition, refined minimalist image, cinematic subtle grain, natural soft studio daylight, very realistic individually visible strands of hair. No text, no watermark, no logos, no collage.
+
+## salon.webp
+
+Use case: photorealistic-natural. Asset type: salon interior photograph for a premium minimal hair salon website. An inviting boutique hair salon interior, beautifully composed architectural magazine photography. Two cognac tan leather salon chairs with black pedestal bases facing tall softly arched mirrors on warm creamy limewash walls. Natural oak floating console, a few neatly placed dark amber haircare bottles, sculptural branch in ceramic vase, a single muted lavender round velvet pouf. Very soft sunlight through a big window on the left, fine shadows, warm cream terrazzo floor. Relaxed refined contemporary Scandinavian aesthetic, authentic materials, quiet elegant space, spotless but lived-in, no people. Wide horizontal 4:3 composition, architectural 35mm photograph, straight verticals, high-end editorial lighting. No text, logos, watermark or collage.
+
+## care-640.webp
+
+Use case: photorealistic-natural. Asset type: vertical photograph for the hair treatment services card of a refined salon website. Premium editorial beauty photograph, close medium detail of a professional hairdresser's hands gently applying and massaging conditioning treatment into a reclining adult female client's dark brown wet hair at a glossy white ceramic salon wash basin. The client's eyes are closed in relaxation, her face seen in profile naturally, a neat warm beige towel protecting her shoulders, warm cream long-sleeved stylist clothing. Hands anatomically realistic, visible focus on healthy wet hair and attentive hands, quiet luxurious professional salon atmosphere. Warm neutral ivory and beige color palette, soft natural window light, subtle analog film grain, gentle depth of field, high-end authentic wellness editorial photography. Vertical 4:5 composition. No text, logos, watermark, collage or borders.
